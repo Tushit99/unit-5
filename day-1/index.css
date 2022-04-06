@@ -1,0 +1,31 @@
+#box{
+    background-color: white; 
+    width: 400px; 
+    height: 200px;
+    margin: auto;  
+    margin-top: 200px;  
+    text-align: center; 
+    border-radius: 5px;
+}
+
+body{
+    background-color: green; 
+}
+
+h2{
+    font-family: sans-serif ; 
+    padding-top: 20%; 
+    font-size: x-large; 
+}
+#box:hover{
+    color: blue ; 
+    background-color: rgb(255, 247, 0);
+}
+
+h2:hover{
+    font-size: xx-large;  
+}
+
+#h{
+    cursor: pointer;
+}
