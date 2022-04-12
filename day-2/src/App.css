@@ -1,0 +1,40 @@
+
+.App{
+  border: 2px solid red;
+  width: 98%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(36,37,42);
+  color: white;
+}
+
+
+.App>img{
+  width: 60px; 
+  padding: 10px; 
+  margin-left: 20px;
+}
+
+.menu{
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.options{
+  list-style: none;
+}
+
+.btn{
+  border-radius: 20px;
+  background-color: rgb(159, 159, 255); 
+  padding: 20px; 
+  margin: 10px; 
+  font-weight:bolder ; 
+
+}
+
+
+
