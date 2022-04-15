@@ -1,0 +1,68 @@
+body{
+  background-image: url("https://www.pcclean.io/wp-content/uploads/2020/4/reUbai.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 100% 100% 100% ;   
+}
+
+.part1{
+  justify-content: center ; 
+  text-align: center; 
+  /* border: 2px solid rgb(195, 195, 195) ;  */
+  background-color: rgba(255, 255, 255, 0.4) ;
+}
+
+h1{
+  margin: 0px ;
+  padding: 2px;   
+  color: rgb(2, 0, 94) ;  
+  font-family: Harlow Solid Italic ; 
+  font-size: xxx-large;  
+}
+
+.part2{
+  display: flex; 
+  justify-content: space-around ;  
+  align-items: center ;   
+  margin-top: 30px ;
+} 
+
+img{
+  width: 220px; 
+  height: 260px;  
+  border-radius: 10px ;
+}
+
+.part3{
+  text-align: center ;  
+  border: 2px solid black ; 
+  padding: 10px ;  
+  margin-top: 20px;  
+  background-color: rgba(255, 255, 255, 0.267) ;
+}
+
+.items{
+  padding: 10px ;
+  box-shadow: rgba(235, 249, 125, 0.4) 0px 0px 0px 2px, rgba(201, 219, 153, 0.65) 0px 4px 6px -1px, rgba(242, 238, 117, 0.251) 0px 1px 0px inset;   
+  background-color: rgba(255, 255, 255, 0.267) ;
+}
+
+button{
+  background-color: rgba(0, 60, 255, 0.616) ;  
+  border: 0px ; 
+  margin: 0px 20px 0px 0px ; 
+  color: white ;  
+  padding: 4px 10px ; 
+  border-radius: 5px ; 
+  box-shadow: rgb(0, 225, 255) 0px -7px 29px 0px ;
+}
+
+p{
+  margin: 0px ;  
+  font-size: x-large ;   
+  font-family: Forte ;  
+}
+
+h4{
+  margin: 10px 0px;
+}
+
