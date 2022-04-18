@@ -1,0 +1,22 @@
+.App {
+  text-align: center; 
+  align-items: center ; 
+}
+
+.table{
+  /* border: 2px solid black ;  */
+  margin: auto ;    
+  width: 85% ;    
+}
+th{
+  border: 2px solid black ;
+}
+
+.sortby{
+  margin: 0px 30px 0px 10px ;   
+}
+.sortorder{
+  margin: 0px 30px 0px 10px ;   
+}
+
+
