@@ -1,0 +1,32 @@
+
+.App{
+    width: 85%; 
+    padding-top: 60px ;
+    margin: auto ;  
+    font-family: sans-serif ; 
+}
+
+.nav{
+    margin: 10px; 
+    padding: 5px ; 
+    text-decoration: none; 
+    background-color: rgba(0, 0, 255, 0.78); 
+    border: none; 
+    color: white ; 
+    cursor: pointer ;  
+    border-radius: 4px ;
+}
+
+.home{
+    background-color: #ffffffc1; 
+    color: black; 
+    padding: 2rem ; 
+    margin-top: 1.5rem;
+    border-radius: 10px; 
+    
+}
+
+.data{
+    text-shadow: purple ;
+}
+
