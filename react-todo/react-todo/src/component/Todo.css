@@ -1,0 +1,84 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(70, 234, 0);
+}
+.todo-list {
+    margin: auto;
+    margin-top: 1em;
+    /* background-color: lightgray; */
+    width: 40vw;
+    display: grid;
+    gap: 1em;
+    padding: 1em;
+    padding-top: 1.5em;
+}
+
+.todo-item {
+    font-size: 1.2em;
+    display: flex;
+    width: 75%;
+    padding: 0.5em 0.4em 0.5em 1em;
+    margin: auto;
+    list-style: none;
+    background-color: snow;
+    border-radius: 0.6em;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todo-not-done {
+    height: 25px;
+    width: 25px;
+    background: rgb(206,206,206);
+    border: 0.3em solid rgb(127,123,255);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.todo-done {
+    text-decoration: line-through;
+}
+#plus{
+    font-size: 15px;
+    font-weight: 800;
+}
+#input-div {
+    margin: auto;
+    margin-top: 10vh;
+    background-color: lightgray;
+    width: 40vw;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 1.5em;
+    border-radius: 8px;
+}
+
+#user-input {
+    background-color: snow;
+    border-radius: 0.6em;
+    padding: 1em;
+    border: none;
+    width: 60%;
+}
+#user-input:focus{
+    outline: none;
+}
+
+#input-div > button {
+    background-color: lightgray;
+    margin: 0;
+    width: 25%;
+    background-color: snow;
+    border-radius: 0.6em;
+    padding: 1em;
+    border: none;
+}
+
+.btn{
+    padding: 10px; 
+    background-color: pink; 
+    border: 2px solid rgb(163, 163, 163); 
+    border-radius: 8px;
+}
