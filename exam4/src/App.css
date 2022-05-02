@@ -1,0 +1,14 @@
+.App {
+  text-align: center;  
+}
+
+.box{
+  display: flex ; 
+  justify-content: space-around; 
+  margin: 50px; 
+}
+
+.btn{
+  text-decoration: none; 
+}
+
